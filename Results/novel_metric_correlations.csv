@@ -1,0 +1,19 @@
+"Metric","Label","Pearson_R","Pearson_p","Spearman_r","Spearman_p","Kendall_tau","Kendall_p"
+"SpectralEntropy","Spectral Entropy
+(bits)",-0.114,0.2782,-0.216,0.0374,-0.15,0.0334
+"HiguchiFD","Higuchi Fractal
+Dimension",-0.134,0.1987,-0.071,0.4984,-0.032,0.6493
+"HurstExp","Hurst Exponent
+(R/S method)",-0.01,0.9229,-0.044,0.6743,-0.026,0.7076
+"SampleEnt","Sample Entropy
+(m=2)",0.255,0.0135,0.306,0.0029,0.212,0.0027
+"WaveletER","Wavelet Energy
+Ratio (DWT)",-0.483,0,-0.574,0,-0.405,0
+"SpectralEdge95","Spectral Edge
+Frequency (95%)",-0.403,1e-04,-0.487,0,-0.331,0
+"TDA_H0_total","TDA H₀
+Total Persistence",0.15,0.1523,-0.012,0.9128,-0.015,0.8344
+"TDA_H1_max","TDA H₁
+Max Persistence",-0.025,0.814,0.068,0.5201,0.049,0.4837
+"TDA_H0_n","TDA H₀
+Cluster Count",0.512,0,0.716,0,0.564,0
